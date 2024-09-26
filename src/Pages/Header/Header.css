@@ -1,0 +1,33 @@
+.active{
+    color: #ffe66d;
+    position: relative;
+    padding-bottom: 10px;
+}
+.active::after{
+    content: '';
+    width: 100%;
+    position: absolute;
+    height: 3px;
+    background: #ffe66d;
+    bottom: 0;
+    left: 0;
+}
+.toastBody{
+    font-size: 20px;
+    color:#fff;
+}
+.ticket{
+    background: #ffffff36;
+    backdrop-filter: blur(30px);
+    -webkit-backdrop-filter: blur(30px);
+
+}
+.cusmod{
+    
+    background: #ffe76d42;
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+}
+::-webkit-scrollbar{
+    width: 1px;
+}

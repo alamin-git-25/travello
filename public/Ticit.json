@@ -1,0 +1,52 @@
+[
+    {
+        
+        "name":"America",
+        "Price":"470$"   
+    },
+    {
+       
+        "name":"Astrallia",
+        "Price":"670$"   
+    },
+    {
+       
+        "name":"UAE",
+        "Price":"370$"   
+    },
+    {
+      
+        "name":"Polend",
+        "Price":"450$"   
+    },
+    {
+       
+        "name":"Russia",
+        "Price":"270$"   
+    },
+    {
+       
+        "name":"South Korea",
+        "Price":"200$"   
+    },
+    {
+      
+        "name":"Japan",
+        "Price":"220$"   
+    },
+    {
+        
+        "name":"UK",
+        "Price":"470$"   
+    },
+    {
+       
+        "name":"AZARBIZAN",
+        "Price":"420$"   
+    },
+    {
+        
+        "name":"Italy",
+        "Price":"470$"   
+    }
+]
